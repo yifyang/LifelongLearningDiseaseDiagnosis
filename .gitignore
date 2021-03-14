@@ -1,0 +1,8 @@
+# train log
+log_file/
+
+# model
+model/
+
+# data
+data/
