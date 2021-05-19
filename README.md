@@ -1,4 +1,4 @@
-# Lifelong Learning based Disease Diagnosis onClinical Notes
+# Lifelong Learning based Disease Diagnosis on Clinical Notes
 
 Source code for [the paper](https://arxiv.org/pdf/2103.00165.pdf):
 
