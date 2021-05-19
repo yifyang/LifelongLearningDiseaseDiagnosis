@@ -14,4 +14,4 @@ Source code for [the paper](https://arxiv.org/pdf/2103.00165.pdf):
 This source code is released under a Attribution-NonCommercial 4.0 International
 license, find out more about it [here](LICENSE).
 
-Considering the privacy of clinical notes, please send a email to yyf919@outlook.com to retrieve the dataset.
+Considering the privacy of clinical notes, please send a email to yyf919@outlook.com to obtain the dataset.
